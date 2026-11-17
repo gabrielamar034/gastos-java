@@ -1,1 +1,1 @@
-Gasto: comida 100
+Gasto: comida 300
