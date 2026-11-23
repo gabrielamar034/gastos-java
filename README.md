@@ -14,6 +14,8 @@ Con este programa puedes:
 
 ## Cómo ejecutarlo
 
+**Requisito previo:** Tener instalado JDK 21 (Java Development Kit), que proporciona las herramientas necesarias para compilar y ejecutar programas Java.
+
 Para ejecutar el programa desde la terminal, sigue estos pasos:
 
 1. Abrir la terminal dentro de la carpeta del proyecto.
